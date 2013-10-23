@@ -1,4 +1,4 @@
 nmap-scripts
 ============
 
-Collection of mine nmap scripts (most are in official nmap release by now)
+Collection of my nmap scripts (most are in official nmap release by now)
